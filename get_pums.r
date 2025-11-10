@@ -1,5 +1,6 @@
 # Install and load packages
-install.packages(c("tidycensus", "tidyverse"), repos = "https://cloud.r-project.org")
+install.packages(c("dplyr", "tidycensus", "tidyverse"), repos = "https://cloud.r-project.org")
+library(dplyr) 
 library(tidycensus)
 library(tidyverse)
 # Download the 2023 1-year PUMS data for renters in New York state via Census API
