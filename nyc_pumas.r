@@ -10,3 +10,6 @@ nyc_puma_codes <- c("04208", "04212", "04207", "04112", "04211", "04210", "04263
 # Filter for renters in NYC
 nyc_renters <- ny_pums %>%
   filter(PUMA %in% nyc_puma_codes)
+
+# Export data to folder
+write.csv(nyc_renters, , row.names = FALSE)
