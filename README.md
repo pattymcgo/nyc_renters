@@ -9,3 +9,5 @@ Using get_pums() allows us to assess demographic relationships at the individual
 PUMA codes are defined on this website: https://usa.ipums.org/usa-action/variables/PUMA#codes_section
 
 Industry code definitions are defined here: https://usa.ipums.org/usa-action/variables/IND#codes_section. 
+
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/4f550596-fa53-4895-88e1-d9ce427172de/page/g8khF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
